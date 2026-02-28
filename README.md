@@ -1,5 +1,5 @@
 # kakishpad
-### a free command line-interface Soundpad alternative
+### a free command line-interface Soundpad alternative written in Python
 ### kakish pad uses VB-AUDIO Voicemeeter to mix your primary microphone with audio output from simple python script, that plays sounds to your primary speakers and to VB-AUDIO Voicemeeter Virtual Input.
 ### Also it uses ffmpeg to convert user's audio files to .wav format, bc for some reason winsound can't play anything other than .wav
 
