@@ -20,9 +20,9 @@
 
 # setup
 ### 1. Install python with PIP
-1. Download python installer from [python.org](python.org).<br>
+1. Download python installer from [python.org](python.org). ![boo](res/python.png)<br>
 2. Run it as administrator<br>
-3. **IMPORTANT!** You NEED to tick these options before clicking install, or kakishpad setup won't work.
+3. **IMPORTANT!** You NEED to tick these options before clicking install, or kakishpad setup won't work. ![boo](res/python2.png)
 4. Click install.
 
 ### 2. Download and install kakishpad
@@ -33,9 +33,9 @@
 5. Procceed with installation
 
 ### 3. Configuring VB-AUDIO Voicemeeter
-1. Set Stereo Input 2 as your primary microphone
+1. Set Stereo Input 2 as your primary microphone ![boo](res/voicemeeter1.png)
 2. Press menu
-3. Tick these options
+3. Tick these options<br>![boo](res/voicemeeter2.png)
 4. Close the window if you want
 
 ### 4. Setting default mic
