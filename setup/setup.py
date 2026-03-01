@@ -14,7 +14,7 @@ if input("Do you have VB-AUDIO Voicemeeter installed? (y/n): ") == "n":
 
 os.system("pip install simplejson")
 os.system("pip install winaudio")
-os.system("pip install pygame")
+os.system("pip install pygame-ce")
 os.system("pip install keyboard")
 os.system("pip install colorama")
 os.system("pip install termcolor")
